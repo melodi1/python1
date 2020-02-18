@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 def main(msg):
-    // Adding a different comment to this file.
-    //Print Message
-
+    // NO longer need comments here
     print(msg)
 
+def secondafy("New function")
+    
 main("Hellow People")
