@@ -3,9 +3,13 @@ def main(msg):
         #NO longer need comments here
     print(msg)
 
-def secondary(New_function):
+def second(New_function):
     print(New_function)
 
 main("Hellow People");
-secondary("Hellow World");
+second("Hellow World");
 
+def third("msg2"):
+    pring(msg2)
+
+third("I think I recovered it")
