@@ -1,8 +1,11 @@
 #!/usr/bin/python3
 def main(msg):
-    // NO longer need comments here
+        #NO longer need comments here
     print(msg)
 
-def secondafy("New function")
-    
-main("Hellow People")
+def secondary(New_function):
+    print(New_function)
+
+main("Hellow People");
+secondary("Hellow World");
+
