@@ -9,7 +9,7 @@ def second(New_function):
 main("Hellow People");
 second("Hellow World");
 
-def third("msg2"):
-    pring(msg2)
+def third(msg2):
+    print(msg2)
 
-third("I think I recovered it")
+third("I think I recovered it");
